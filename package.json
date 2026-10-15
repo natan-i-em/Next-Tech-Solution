@@ -1,0 +1,12 @@
+{
+  "name": "3d-landing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Motion 3D Landing Page crate built with Next.js & Three.js",
+  "scripts": {
+    "dev": "npm --prefix motion-crate run dev",
+    "build": "npm --prefix motion-crate run build",
+    "start": "npm --prefix motion-crate run start",
+    "lint": "npm --prefix motion-crate run lint"
+  }
+}
